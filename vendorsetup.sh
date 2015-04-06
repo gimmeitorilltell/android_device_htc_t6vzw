@@ -1,1 +1,1 @@
-add_lunch_combo cm_t6vzw-eng
+add_lunch_combo candy5_t6vzw-userdebug
